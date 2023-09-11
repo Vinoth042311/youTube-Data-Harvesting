@@ -1,12 +1,12 @@
-#YouTube Data- harvesting
+# YouTube Data- harvesting
 
-##Introduction
+## Introduction
 This project is a YouTube API harvesting that allows users to retrieve and analyze data from YouTube
 channels. It utilizes the YouTube Data API to fetch information such as channel statistics, video details,
 comments, and more. The scrapper provides various functionalities to extract and process YouTube data
 for further analysis and insights.
 
-##Features
+## Features
 The YouTube Data harvesting offers a range of features to help you extract and analyze data from
 YouTube. Some of the key features include:
 
@@ -24,7 +24,7 @@ gain insights into channel performance, video engagement, and audience interacti
 
 Data storage: Store the collected YouTube data in a database for easy retrieval and future reference.
 
-##Technologies Used
+## Technologies Used
 Python: The project is implemented using the Python programming language.
 
 YouTube Data API: Utilizes the official YouTube Data API to interact with YouTube’s platform and
@@ -50,7 +50,7 @@ Pandas: A powerful data manipulation and analysis library in Python. Pandas is u
 Data Scraper to handle and process data obtained from YouTube, providing functionalities such as data
 filtering, transformation, and aggregation.
 
-##Process Flow
+## Process Flow
 Obtain YouTube API credentials: Visit the Google Cloud Console.
 
 Create a new project or select an existing project.
@@ -59,7 +59,7 @@ Enable the YouTube Data API v3 for your project.
 
 Create API credentials for YouTube API v3.
 
-##ETL Process
+## ETL Process
 Extracting Data from YouTube API.
 
 Transforming data into required format.
